@@ -1,2 +1,2 @@
 # credit_card_financial_dashboard-
-ower bi dashboard 
+power bi dashboard 
